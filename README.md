@@ -43,7 +43,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/event-registration-system.git
+   git clone https://github.com/Gupta2501/event-registration-system.git
    ```
 
 2. Set up your MySQL database and update `application.properties`
