@@ -26,7 +26,7 @@ A web-based application for managing event registrations, built using Spring Boo
 src/
 ├── main/
 │   ├── java/
-│   │   └── com/gpta/event/   # Update if refactored
+│   │   └── com/gupta/event/   # Update if refactored
 │   │       ├── controller/
 │   │       ├── dto/
 │   │       ├── entity/
